@@ -1,0 +1,27 @@
+[
+    {
+        "task_name":"HTML",
+        "task_details":"finish the HTML course",
+        "task_finished":true
+    },
+    {
+        "task_name":"CSS",
+        "task_details":"finish the CSS course",
+        "task_finished":false
+    },
+    {
+        "task_name":"Node",
+        "task_details":"finish the Node course",
+        "task_finished":true
+    },
+    {
+        "task_name":"BootStrap",
+        "task_details":"finish the BootStrap course",
+        "task_finished":true
+    },
+    {
+        "task_name":"AI",
+        "task_details":"finish the AI course",
+        "task_finished":true
+    }
+]
